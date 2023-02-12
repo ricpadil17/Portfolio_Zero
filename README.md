@@ -11,4 +11,3 @@ sample portfolio for NLP Grad class
 <br />
 <br />
 [This](component_one) is a link to Component One
-
