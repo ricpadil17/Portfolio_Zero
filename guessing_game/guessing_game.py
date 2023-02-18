@@ -77,6 +77,7 @@ def preprocess_raw_text():
     # do pos tagging on the unique lemmas and print the first 20 tagged
     tags = pos_tag(lemmas)
     top_20 = tags[:20]
+    print(type(tags))
     print("top 20 lemmas are: ", top_20)
 
     # create a list of only those lemmas that are nouns
