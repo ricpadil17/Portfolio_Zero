@@ -4,10 +4,18 @@ Compilation of projects for NLP Grad class at UT Dallas. Spring 2023.
 [This](Overview_of_NLP.pdf) is a link to the PDF describing the Overview of NLP
 <br />
 <br />
-[This](web_crawler/crawler.py) is a link to the Web Crawler
+[Presidential Address](component_one) is a link to Component One
 <br />
 <br />
-[This](guessing_game/guessing_game_instructions.pdf) is a link to the overview of the Guessing Game. [Here is the code](guessing_game/guessing_game.py)
+[Web Crawler](web_crawler/crawler.py)
 <br />
 <br />
-[This](component_one) is a link to Component One
+[Guessing Game](guessing_game/guessing_game.py) | [Instructions](guessing_game/guessing_game_instructions.pdf)
+<br />
+<br />
+[nGram (creating the dictionaries)](ngrams/ngrams.py) | [nGram 2 (guess language)](ngrams/ngrams_2.py)
+<br />
+<br />
+[WordNet (Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf)
+<br />
+<br />
