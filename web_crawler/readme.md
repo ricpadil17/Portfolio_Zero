@@ -1,2 +1,2 @@
 ## Instructions for running
-`python3 webcrawler.py`
+`python3 crawler.py`
