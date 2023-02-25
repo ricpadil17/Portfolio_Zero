@@ -1,1 +1,2 @@
-# THIS IS A README
+## Instructions for running
+`python3 webcrawler.py`
