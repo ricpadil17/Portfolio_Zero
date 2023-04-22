@@ -16,6 +16,9 @@ nGram: Creating the Dictionaries [code](ngrams/ngrams.py) | Guessing the Languag
 WordNet [notebook](wordnet/wordnet.ipynb), [PDF](wordnet/wordnet.pdf)
 <br />
 <br />
+Sentence Parsing [PDF](sent_parse/parser.pdf)
+<br />
+<br />
 ChatBot ML Model: [notebook](chatbot/model.ipynb), [PDF](chatbot/model.pdf) | ChatBot Program: [notebook](chatbot/chatbot.ipynb), [PDF](chatbot/chatbot.pdf) | [Report](chatbot/report.pdf)
 <br />
 <br />
