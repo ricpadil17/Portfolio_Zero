@@ -19,7 +19,7 @@ Compilation of projects for NLP Grad class at UT Dallas. Spring 2023.
 [WordNet (Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf)
 <br />
 <br />
-[ChatBot (Notebook)](wordnet/wordnet.ipynb) | [PDF](ChatBot PDF/wordnet.pdf) | [Report]()
+[ChatBot ()](wordnet/wordnet.ipynb) | [PDF](chatbot/wordnet.pdf) | [Report]()
 <br />
 <br />
 [ACL Paper Summary (Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf)
