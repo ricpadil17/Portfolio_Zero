@@ -10,7 +10,7 @@ Web Crawler [code](web_crawler/crawler.py) | [report](web_crawler/report.pdf)
 Guessing Game [code](guessing_game/guessing_game.py) | [Instructions](guessing_game/guessing_game_instructions.pdf)
 <br />
 <br />
-nGram [(creating the dictionaries)](ngrams/ngrams.py) | nGram 2[(guess language)](ngrams/ngrams_2.py) | [Report](ngrams/report.pdf)
+nGram: Creating the Dictionaries [code](ngrams/ngrams.py) | Guessing the Language (code)](ngrams/ngrams_2.py) | [Report](ngrams/report.pdf)
 <br />
 <br />
 WordNet [notebook](wordnet/wordnet.ipynb), [PDF](wordnet/wordnet.pdf)
@@ -25,7 +25,7 @@ ACL Paper Summary [PDF](acl/summary.pdf)
 Text Classification 1 [(Notebook)](classify_1/emoticons.ipynb), [PDF](classify_1/emoticons.pdf)
 <br />
 <br />
-Text Classification 2: Text Pre-Processing [(Notebook)](classify_2/pre_processing.ipynb), [PDF](classify_2/pre_processing.pdf) | Models & Classification: [(Notebook)](classify_2/models.ipynb), [PDF](classify_2/models.pdf)
+Text Classification 2: Text Pre-Processing [notebook](classify_2/pre_processing.ipynb), [PDF](classify_2/pre_processing.pdf) | Models & Classification: [notebook](classify_2/models.ipynb), [PDF](classify_2/models.pdf)
 <br />
 <br />
 ### [About Me](./resume.md)
