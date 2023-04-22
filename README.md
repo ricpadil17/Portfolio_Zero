@@ -19,7 +19,7 @@ WordNet [.ipynb](wordnet/wordnet.ipynb), [PDF](wordnet/wordnet.pdf)
 ChatBot ML Model: [.ipynb](chatbot/model.ipynb), [PDF](chatbot/model.pdf) | ChatBot Program: [.ipynb](chatbot/chatbot.ipynb), [PDF](chatbot/chatbot.pdf) | [Report](chatbot/report.pdf)
 <br />
 <br />
-ACL Paper Summary [(Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf)
+ACL Paper Summary [PDF](acl/summary.pdf)
 <br />
 <br />
 Text Classification 1 [(Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf) | [Report]()
