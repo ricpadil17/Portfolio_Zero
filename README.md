@@ -25,7 +25,7 @@ ChatBot ML Model: [notebook](chatbot/model.ipynb), [PDF](chatbot/model.pdf) | Ch
 ACL Paper Summary [PDF](acl/summary.pdf)
 <br />
 <br />
-Text Classification 1 [(Notebook)](classify_1/emoticons.ipynb), [PDF](classify_1/emoticons.pdf)
+Text Classification 1 [notebook](classify_1/emoticons.ipynb), [PDF](classify_1/emoticons.pdf)
 <br />
 <br />
 Text Classification 2: Text Pre-Processing [notebook](classify_2/pre_processing.ipynb), [PDF](classify_2/pre_processing.pdf) | Models & Classification: [notebook](classify_2/models.ipynb), [PDF](classify_2/models.pdf)
