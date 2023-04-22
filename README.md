@@ -22,9 +22,9 @@ ChatBot ML Model: [.ipynb](chatbot/model.ipynb), [PDF](chatbot/model.pdf) | Chat
 ACL Paper Summary [PDF](acl/summary.pdf)
 <br />
 <br />
-Text Classification 1 [(Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf) | [Report]()
+Text Classification 1 [(Notebook)](classify_1/emoticons.ipynb), [PDF](classify_1/emoticons.pdf)
 <br />
 <br />
-Text Classification 2 [(Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf) | [Report]()
+Text Classification 2: Text Pre-Processing [(Notebook)](classify_2/emoticons.ipynb), [PDF](classify_2/emoticons.pdf) | Models & Classification: [(Notebook)](classify_2/emoticons.ipynb), [PDF](classify_2/emoticons.pdf)
 <br />
 <br />
