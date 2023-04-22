@@ -10,7 +10,7 @@ Web Crawler [code](web_crawler/crawler.py) | [report](web_crawler/report.pdf)
 Guessing Game [code](guessing_game/guessing_game.py) | [Instructions](guessing_game/guessing_game_instructions.pdf)
 <br />
 <br />
-nGram: Creating the Dictionaries [code](ngrams/ngrams.py) | Guessing the Language (code)](ngrams/ngrams_2.py) | [Report](ngrams/report.pdf)
+nGram: Creating the Dictionaries [code](ngrams/ngrams.py) | Guessing the Language [code](ngrams/ngrams_2.py) | [Report](ngrams/report.pdf)
 <br />
 <br />
 WordNet [notebook](wordnet/wordnet.ipynb), [PDF](wordnet/wordnet.pdf)
