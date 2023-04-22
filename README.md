@@ -4,30 +4,27 @@ Compilation of projects for NLP Grad class at UT Dallas. Spring 2023.
 [Overview of NLP](Overview_of_NLP.pdf)
 <br />
 <br />
-[Presidential Address](component_one)
+Web Crawler [.py](web_crawler/crawler.py) | [report](web_crawler/report.pdf)
 <br />
 <br />
-[Web Crawler](web_crawler/crawler.py) | [report](web_crawler/report.pdf)
+Guessing Game [.py](guessing_game/guessing_game.py) | [Instructions](guessing_game/guessing_game_instructions.pdf)
 <br />
 <br />
-[Guessing Game](guessing_game/guessing_game.py) | [Instructions](guessing_game/guessing_game_instructions.pdf)
+nGram [(creating the dictionaries)](ngrams/ngrams.py) | nGram 2[(guess language)](ngrams/ngrams_2.py) | [Report](ngrams/report.pdf)
 <br />
 <br />
-[nGram (creating the dictionaries)](ngrams/ngrams.py) | [nGram 2 (guess language)](ngrams/ngrams_2.py) | [Report](ngrams/report.pdf)
-<br />
-<br />
-[WordNet (Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf)
+WordNet [.ipynb](wordnet/wordnet.ipynb), [PDF](wordnet/wordnet.pdf)
 <br />
 <br />
 ChatBot ML Model: [.ipynb](chatbot/model.ipynb), [PDF](chatbot/model.pdf) | ChatBot Program: [.ipynb](chatbot/chatbot.ipynb), [PDF](chatbot/chatbot.pdf) | [Report](chatbot/report.pdf)
 <br />
 <br />
-[ACL Paper Summary (Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf)
+ACL Paper Summary [(Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf)
 <br />
 <br />
-[Text Classification 1 (Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf) | [Report]()
+Text Classification 1 [(Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf) | [Report]()
 <br />
 <br />
-[Text Classification 2 (Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf) | [Report]()
+Text Classification 2 [(Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf) | [Report]()
 <br />
 <br />
