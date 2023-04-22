@@ -13,9 +13,21 @@ Compilation of projects for NLP Grad class at UT Dallas. Spring 2023.
 [Guessing Game](guessing_game/guessing_game.py) | [Instructions](guessing_game/guessing_game_instructions.pdf)
 <br />
 <br />
-[nGram (creating the dictionaries)](ngrams/ngrams.py) | [nGram 2 (guess language)](ngrams/ngrams_2.py) | [report](ngrams/report.pdf)
+[nGram (creating the dictionaries)](ngrams/ngrams.py) | [nGram 2 (guess language)](ngrams/ngrams_2.py) | [Report](ngrams/report.pdf)
 <br />
 <br />
 [WordNet (Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf)
+<br />
+<br />
+[ChatBot (Notebook)](wordnet/wordnet.ipynb) | [PDF](ChatBot PDF/wordnet.pdf) | [Report]()
+<br />
+<br />
+[ACL Paper Summary (Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf)
+<br />
+<br />
+[Text Classification 1 (Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf) | [Report]()
+<br />
+<br />
+[Text Classification 2 (Notebook)](wordnet/wordnet.ipynb) | [PDF](wordnet/wordnet.pdf) | [Report]()
 <br />
 <br />
