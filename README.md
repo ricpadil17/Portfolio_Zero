@@ -28,3 +28,4 @@ Text Classification 1 [(Notebook)](classify_1/emoticons.ipynb), [PDF](classify_1
 Text Classification 2: Text Pre-Processing [(Notebook)](classify_2/pre_processing.ipynb), [PDF](classify_2/pre_processing.pdf) | Models & Classification: [(Notebook)](classify_2/models.ipynb), [PDF](classify_2/models.pdf)
 <br />
 <br />
+### [About Me](./resume.md)
