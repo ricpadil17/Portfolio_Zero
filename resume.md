@@ -1,6 +1,6 @@
 Resume [PDF](resume.pdf)
 
-###What I've gained from this class
+### What I've gained from this class
 
 Technical Skills: pre-processing, TF-IDF, neural networks, Deep Learning, statistical models, verification of models
 
