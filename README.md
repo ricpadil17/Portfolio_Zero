@@ -4,7 +4,7 @@ Compilation of projects for NLP Grad class at UT Dallas. Spring 2023.
 [Overview of NLP](Overview_of_NLP.pdf)
 <br />
 <br />
-Web Crawler [code](web_crawler/crawler.py) | [report](web_crawler/report.pdf)
+Web Crawler [code](https://github.com/ricpadil17/nlp_portfolio/blob/main/web_crawler/crawler.py) | [report](web_crawler/report.pdf)
 <br />
 <br />
 Guessing Game [code](guessing_game/guessing_game.py) | [Instructions](guessing_game/guessing_game_instructions.pdf)
