@@ -33,9 +33,7 @@ Text Classification 2: Text Pre-Processing [notebook](https://github.com/ricpadi
 <br />
 
 ### Reflections on the class
-Add a summary paragraph to the index page that reflects your skills in NLP, enthusiasm for NLP,
-plans for future personal projects, plans for keeping up with this rapidly changing field, and
-interest in possible employment opportunities. 
+I took this class during the spring of 2023, which is quite possibly one of the most exciting times to take Natural Language Processing. Chat GPT (3.5) was just coming out to the public at the start of the semester. Over the course of the semester Large Language Models (LLM's) took off. During class we gained knowledge and skills in NLP that really shaped my understanding of how these LLM's function. We had engaging conversations with Dr. Mazidi about GPT and the future of NLP. These LLM's are very interesting to me, which served as a motivator to really understand the course material and how it can be applied. After this course I plan on continuing to study NLP on personal projects. I would like to play with some LLM's myself and see not only what they can do, but how I can apply the concepts I have learned in NLP to get even more out of the models than I could ever hope before the start of this semester. If anyone reading this knows of any employment opportunities and is interested in reaching out after reviewing my portfolio, my contact information is listed in the resume of the 'About Me' page linked below. I would love the chance to work on building these LLM's in Industry.
 <br />
 <br />
 ### [About Me](./resume.md)
