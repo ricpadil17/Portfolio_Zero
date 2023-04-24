@@ -31,4 +31,11 @@ Text Classification 1 [notebook](classify_1/emoticons.ipynb), [PDF](classify_1/e
 Text Classification 2: Text Pre-Processing [notebook](classify_2/pre_processing.ipynb), [PDF](classify_2/pre_processing.pdf) | Models & Classification: [notebook](classify_2/models.ipynb), [PDF](classify_2/models.pdf)
 <br />
 <br />
+
+### Reflections on the class
+Add a summary paragraph to the index page that reflects your skills in NLP, enthusiasm for NLP,
+plans for future personal projects, plans for keeping up with this rapidly changing field, and
+interest in possible employment opportunities. 
+<br />
+<br />
 ### [About Me](./resume.md)
