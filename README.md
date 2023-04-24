@@ -4,13 +4,13 @@ Compilation of projects for NLP Grad class at UT Dallas. Spring 2023.
 [Overview of NLP](Overview_of_NLP.pdf)
 <br />
 <br />
-Web Crawler [code](https://raw.githubusercontent.com/ricpadil17/nlp_portfolio/main/web_crawler/crawler.py) | [report](web_crawler/report.pdf)
+Web Crawler [code](https://github.com/ricpadil17/nlp_portfolio/blob/main/web_crawler/crawler.py) | [report](web_crawler/report.pdf)
 <br />
 <br />
-Guessing Game [code](guessing_game/guessing_game.py) | [Instructions](guessing_game/guessing_game_instructions.pdf)
+Guessing Game [code](https://github.com/ricpadil17/nlp_portfolio/blob/main/guessing_game/guessing_game.py) | [Instructions](guessing_game/guessing_game_instructions.pdf)
 <br />
 <br />
-nGram: Creating the Dictionaries [code](ngrams/ngrams.py) | Guessing the Language [code](ngrams/ngrams_2.py) | [Report](ngrams/report.pdf)
+nGram: Creating the Dictionaries [code](https://github.com/ricpadil17/nlp_portfolio/blob/main/ngrams/ngrams.py) | Guessing the Language [code](https://github.com/ricpadil17/nlp_portfolio/blob/main/ngrams/ngrams_2.py) | [Report](ngrams/report.pdf)
 <br />
 <br />
 WordNet [notebook](wordnet/wordnet.ipynb), [PDF](wordnet/wordnet.pdf)
